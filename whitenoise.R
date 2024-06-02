@@ -7,4 +7,4 @@ plot(white_noise, type = "l", main = "White Noise", xlab = "Time", ylab = "Ampli
 # Defining parameters
 
 phi0 <- 1
-phi1 <- runif(n=1, min=-1, max=1)
+phi1 <- runif(n=1, min=-0.99, max=0.99)
